@@ -148,6 +148,7 @@ ul {
 }
 
 .section-title h2 {
+  font-family: 'Playfair Display', serif!important;
   text-transform: capitalize;
   font-weight: 700;
   color: #125792!important;
